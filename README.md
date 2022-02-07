@@ -1,7 +1,1 @@
-Saluton.
-- Mi estas @GuanyunLu. You may call me *Malbona Simio("Bad Monkey" in Esperanto)*.
-- I'm interested in philosophy and literature. If you like Julio Cortázar or Georges Bataille, we will be friends.
-- Currently learning Go and Esperanto. Both are artificial languages, don't be surprised.
-- Mail to guanyun_hdu@outlook.com for reaching me. English and Chinese preferred, Esperanto available, a little French or Spanish is OK.
-
-Ĝis revido.
+![2021_shot_by_staff_at_BY_ART_MATTERS(3)](https://user-images.githubusercontent.com/41956963/152739337-0b97e651-1662-4e78-93b3-ed192c594487.jpg)
